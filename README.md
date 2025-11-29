@@ -60,38 +60,14 @@ Analysis of product sales, payment and shipping preferences, and seasonal trends
 ---
 ## 📂 Repository Structure
 
-/customer-shopping-behaviour-business-impact
-├── Customer Shopping Behavior Analysis.pbit
-├── customer_shopping_behavior.csv
-├── cust_shooping_behav.ipynb
-├── customer_shopping_behaviour_reakdown.sql
-├── customer_shopping_behaviour_analysis.jpg
-├── customer_segmentation_and_behavior.jpg
-├── insights_into_sales_product_customer.jpg
-├── README.md
-└── REPORT.md (or PDF)
+- `Customer Shopping Behavior Analysis.pbit`
+- `customer_shopping_behavior.csv`
+- `cust_shooping_behav.ipynb`
+- `customer_shopping_behaviour_reakdown.sql`
+- `customer_shopping_behaviour_analysis.jpg`
+- `customer_segmentation_and_behavior.jpg`
+- `insights_into_sales_product_customer.jpg`
+- `README.md`
+- `REPORT.md` (or PDF)
 
-Copy code
-
-## 📁 Repository Structure
-/customer-shopping-behaviour-business-impact
-│
-|
-├── Customer Shopping Behavior Analysis.pbit                                                                                                                                  
-|
-├── customer_shopping_behavior.csv
-|
-├── cust_shooping_behav.ipynb
-|
-├── customer_shopping_behaviour_reakdown.sql
-|
-├── customer_shopping_behaviour_analysis.jpg
-|
-├── customer_segmentation_and_behavior.jpg
-|
-├── insights_into_sales_product_customer.jpg
-|
-├── README.md
-|
-└── REPORT.md (or PDF)
-
+  
