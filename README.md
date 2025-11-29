@@ -62,8 +62,8 @@ Analysis of product sales, payment and shipping preferences, and seasonal trends
 ## 📁 Repository Structure
 /customer-shopping-behaviour-business-impact
 │
-
-├── Customer Shopping Behavior Analysis.pbit
+|
+├── Customer Shopping Behavior Analysis.pbit                                                                                                                                  
 |
 ├── customer_shopping_behavior.csv
 |
