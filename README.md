@@ -32,7 +32,7 @@ Deep dive into customer characteristics and behaviour such as:
 - Customer insights summary  
 
 **Screenshot:**  
-![Customer Segmentation](https://raw.githubusercontent.com/saudenaa/customer-shopping-behaviour-business-impact/main/customer_segmentation_and_behavior.jpg)
+![Customer Segmentation](https://github.com/saudenaa/customer-shopping-behaviour-business-impact/blob/main/customer_segment_and_behavior_analysis.jpg)
 
 ---
 
