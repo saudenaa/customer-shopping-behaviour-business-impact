@@ -70,4 +70,70 @@ Analysis of product sales, payment and shipping preferences, and seasonal trends
 - `README.md`
 - `REPORT.md` (or PDF)
 
+
+---
+
+## 📈 Key Insights
+
+### **Customer Behaviour**
+- Clothing generates the **highest revenue**, followed by accessories and footwear.  
+- Customers spend an average of **$59.76 per purchase**, showing strong purchase intent.  
+- Subscription adoption is low (**7.3%**), but subscribers typically spend more.  
+- Young Adults and Middle-Aged customers contribute the highest spending.
+
+### **Sales & Product Performance**
+- **Fall** is the best-performing season for revenue.  
+- **Free Shipping** drives the highest number of transactions.  
+- Most-used payment methods: **Credit Card, PayPal, Cash**.  
+- Top-performing products include **blouses, shirts, and dresses**.
+
+---
+
+## 🎯 Business Impact
+
+This dashboard supports decision-making in:
+
+- Marketing & customer segmentation  
+- Inventory management  
+- Subscription strategy  
+- Sales optimization  
+- Seasonal planning  
+- Shipping & fulfilment efficiency  
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- SQL Querying  
+- Power BI Dashboard Design  
+- Interactive Visualisation  
+- Business Insight Generation  
+- Storytelling with Data  
+
+---
+
+## 📥 How to Use
+
+1. Load `customer_shopping_behavior.csv` into Power BI.  
+2. Open `Customer Shopping Behavior Analysis.pbit`.  
+3. Explore all three dashboard pages interactively.  
+4. Review the SQL script for deeper analysis.  
+5. Check the Jupyter notebook for the full ETL workflow.  
+
+---
+
+## 📄 Project Report
+
+A full analysis report is available here:  
+**REPORT.md** *(or upload your PDF and link it)*
+
+---
+
+## 📬 Contact  
+**Amy Sauden**  
+📧 saudenaa@mail.uc.edu  
+🔗 LinkedIn: https://www.linkedin.com/in/amysauden/
+
   
